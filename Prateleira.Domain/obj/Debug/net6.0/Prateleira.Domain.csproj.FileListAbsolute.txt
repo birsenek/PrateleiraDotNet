@@ -1,0 +1,12 @@
+D:\Documentos\projetos\Prateleira\Prateleira.Domain\bin\Debug\net6.0\Prateleira.Domain.deps.json
+D:\Documentos\projetos\Prateleira\Prateleira.Domain\bin\Debug\net6.0\Prateleira.Domain.dll
+D:\Documentos\projetos\Prateleira\Prateleira.Domain\bin\Debug\net6.0\Prateleira.Domain.pdb
+D:\Documentos\projetos\Prateleira\Prateleira.Domain\obj\Debug\net6.0\Prateleira.Domain.csproj.AssemblyReference.cache
+D:\Documentos\projetos\Prateleira\Prateleira.Domain\obj\Debug\net6.0\Prateleira.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\projetos\Prateleira\Prateleira.Domain\obj\Debug\net6.0\Prateleira.Domain.AssemblyInfoInputs.cache
+D:\Documentos\projetos\Prateleira\Prateleira.Domain\obj\Debug\net6.0\Prateleira.Domain.AssemblyInfo.cs
+D:\Documentos\projetos\Prateleira\Prateleira.Domain\obj\Debug\net6.0\Prateleira.Domain.csproj.CoreCompileInputs.cache
+D:\Documentos\projetos\Prateleira\Prateleira.Domain\obj\Debug\net6.0\Prateleira.Domain.dll
+D:\Documentos\projetos\Prateleira\Prateleira.Domain\obj\Debug\net6.0\refint\Prateleira.Domain.dll
+D:\Documentos\projetos\Prateleira\Prateleira.Domain\obj\Debug\net6.0\Prateleira.Domain.pdb
+D:\Documentos\projetos\Prateleira\Prateleira.Domain\obj\Debug\net6.0\ref\Prateleira.Domain.dll

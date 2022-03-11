@@ -1,0 +1,15 @@
+D:\Documentos\projetos\Prateleira\Prateleira.Infrastucture.Data\obj\Debug\net6.0\Prateleira.Infrastucture.Data.csproj.AssemblyReference.cache
+D:\Documentos\projetos\Prateleira\Prateleira.Infrastucture.Data\obj\Debug\net6.0\Prateleira.Infrastucture.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\projetos\Prateleira\Prateleira.Infrastucture.Data\obj\Debug\net6.0\Prateleira.Infrastucture.Data.AssemblyInfoInputs.cache
+D:\Documentos\projetos\Prateleira\Prateleira.Infrastucture.Data\obj\Debug\net6.0\Prateleira.Infrastucture.Data.AssemblyInfo.cs
+D:\Documentos\projetos\Prateleira\Prateleira.Infrastucture.Data\obj\Debug\net6.0\Prateleira.Infrastucture.Data.csproj.CoreCompileInputs.cache
+D:\Documentos\projetos\Prateleira\Prateleira.Infrastucture.Data\bin\Debug\net6.0\Prateleira.Infrastucture.Data.deps.json
+D:\Documentos\projetos\Prateleira\Prateleira.Infrastucture.Data\bin\Debug\net6.0\Prateleira.Infrastucture.Data.dll
+D:\Documentos\projetos\Prateleira\Prateleira.Infrastucture.Data\bin\Debug\net6.0\Prateleira.Infrastucture.Data.pdb
+D:\Documentos\projetos\Prateleira\Prateleira.Infrastucture.Data\bin\Debug\net6.0\Prateleira.Domain.dll
+D:\Documentos\projetos\Prateleira\Prateleira.Infrastucture.Data\bin\Debug\net6.0\Prateleira.Domain.pdb
+D:\Documentos\projetos\Prateleira\Prateleira.Infrastucture.Data\obj\Debug\net6.0\Prateleira.Infrastucture.Data.csproj.CopyComplete
+D:\Documentos\projetos\Prateleira\Prateleira.Infrastucture.Data\obj\Debug\net6.0\Prateleira.Infrastucture.Data.dll
+D:\Documentos\projetos\Prateleira\Prateleira.Infrastucture.Data\obj\Debug\net6.0\refint\Prateleira.Infrastucture.Data.dll
+D:\Documentos\projetos\Prateleira\Prateleira.Infrastucture.Data\obj\Debug\net6.0\Prateleira.Infrastucture.Data.pdb
+D:\Documentos\projetos\Prateleira\Prateleira.Infrastucture.Data\obj\Debug\net6.0\ref\Prateleira.Infrastucture.Data.dll
