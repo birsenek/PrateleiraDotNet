@@ -67,3 +67,6 @@ D:\Documentos\projetos\Prateleira\Prateleira.API\bin\Debug\net6.0\Swashbuckle.As
 D:\Documentos\projetos\Prateleira\Prateleira.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Documentos\projetos\Prateleira\Prateleira.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Documentos\projetos\Prateleira\Prateleira.API\obj\Debug\net6.0\Prateleira.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\projetos\Prateleira\Prateleira.API\bin\Debug\net6.0\MediatR.dll
+D:\Documentos\projetos\Prateleira\Prateleira.API\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Documentos\projetos\Prateleira\Prateleira.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

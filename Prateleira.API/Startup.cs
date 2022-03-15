@@ -1,6 +1,7 @@
-﻿using Microsoft.OpenApi.Models;
+﻿using MediatR;
+using Microsoft.OpenApi.Models;
 using Prateleira.Infrastructure.Data.DataRegistration;
-
+using System.Reflection;
 
 namespace Mercadinho.Prateleira.API
 {
@@ -17,6 +18,7 @@ namespace Mercadinho.Prateleira.API
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddMediatR(Assembly.GetExecutingAssembly());
             services.AddDataRegistration(_configuration);
             
             services.AddControllers().AddNewtonsoftJson(opt => 
@@ -68,7 +70,7 @@ namespace Mercadinho.Prateleira.API
             app.UseSwaggerUI(c =>
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "Prateleira API");
-                //c.RoutePrefix = string.Empty;
+                c.RoutePrefix = string.Empty;
             });
         }
     }

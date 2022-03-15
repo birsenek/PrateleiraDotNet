@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "+zM/mYsNTft1I+H2e/SJNAiexPwlBP2TSvi+ZCBRlMaiq+pSYbb8OyTbQsAz1pm+hvhlglh3yxF3UMk6ji2yvQ==",
+  "dgSpecHash": "bQaTyhhE8gRyLXKX61R/H1t5NBOeTsqrPHMXIff3349rcko5e2Wc24PJ4C6OXbheekGCHu1H+C2B8PYej7cgyg==",
   "success": true,
   "projectFilePath": "D:\\Documentos\\projetos\\Prateleira\\Prateleira.API\\Prateleira.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\birse\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
     "C:\\Users\\birse\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\birse\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\birse\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\birse\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\birse\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.3\\microsoft.aspnetcore.jsonpatch.6.0.3.nupkg.sha512",
     "C:\\Users\\birse\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.3\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.3.nupkg.sha512",
     "C:\\Users\\birse\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
