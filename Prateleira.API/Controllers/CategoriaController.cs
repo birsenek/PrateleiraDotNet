@@ -41,5 +41,37 @@ namespace Prateleira.API.Controllers
 
             return Ok(sucesso);
         }
+
+        [HttpPut]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        public async Task<IActionResult> Update(UpdateCategoryCommand updateCategoryCommand, CancellationToken cancellationToken)
+        {
+            if (!updateCategoryCommand.Validation.IsValid)
+                return BadRequest(updateCategoryCommand.Validation.Errors);
+
+            var sucesso = await _mediator.Send(updateCategoryCommand, cancellationToken).ConfigureAwait(false);
+
+            if (!sucesso)
+                return Ok("Categoria não encontrada.");
+            else
+                return Ok(sucesso);
+        }
+
+        [HttpDelete]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        public async Task<IActionResult> Delete(DeleteCategoryCommand deleteCategoryCommand, CancellationToken cancellationToken)
+        {
+            if (!deleteCategoryCommand.Validation.IsValid)
+                return BadRequest(deleteCategoryCommand.Validation.Errors);
+
+            var sucesso = await _mediator.Send(deleteCategoryCommand, cancellationToken).ConfigureAwait(false);
+
+            if (!sucesso)
+                return Ok("ID não encontrado.");
+            else
+                return Ok(sucesso);
+        }
     }
 }

@@ -5,16 +5,17 @@ using System.Text.Json.Serialization;
 
 namespace Prateleira.API.Application.Categoria.Command
 {
-    public class CreateCategoryCommand : IRequest<bool>
+    public class UpdateCategoryCommand : IRequest<bool>
     {
+        public int Id { get; set; }
         public string Descricao { get; set; }
         [JsonIgnore]
         public ValidationResult Validation { get; }
-
-        public CreateCategoryCommand(string descricao)
+        public UpdateCategoryCommand(int id, string descricao)
         {
+            Id = id;
             Descricao = descricao;
-            var validator = new CreateCategoryCommandValidator();
+            var validator = new UpdateCategoryCommandValidator();
             Validation = validator.Validate(this);
         }
     }

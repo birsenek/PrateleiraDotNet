@@ -70,3 +70,6 @@ D:\Documentos\projetos\Prateleira\Prateleira.API\obj\Debug\net6.0\Prateleira.API
 D:\Documentos\projetos\Prateleira\Prateleira.API\bin\Debug\net6.0\MediatR.dll
 D:\Documentos\projetos\Prateleira\Prateleira.API\bin\Debug\net6.0\MediatR.Contracts.dll
 D:\Documentos\projetos\Prateleira\Prateleira.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Documentos\projetos\Prateleira\Prateleira.API\bin\Debug\net6.0\FluentValidation.dll
+D:\Documentos\projetos\Prateleira\Prateleira.API\obj\Debug\net6.0\Prateleira.API.Properties.Resources.resources
+D:\Documentos\projetos\Prateleira\Prateleira.API\obj\Debug\net6.0\Prateleira.API.csproj.GenerateResource.cache
