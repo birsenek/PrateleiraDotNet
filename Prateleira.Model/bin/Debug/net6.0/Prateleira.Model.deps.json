@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Prateleira.Model/1.0.0": {
+        "dependencies": {
+          "Prateleira.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Prateleira.Model.dll": {}
+        }
+      },
+      "Prateleira.Domain/1.0.0": {
+        "runtime": {
+          "Prateleira.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prateleira.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Prateleira.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

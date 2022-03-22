@@ -25,7 +25,6 @@
 
   <ItemGroup>
     <Folder Include="Application\Estoque\" />
-    <Folder Include="Application\Produto\" />
   </ItemGroup>
 
   <ItemGroup>

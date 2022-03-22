@@ -1,0 +1,15 @@
+D:\Documentos\projetos\Prateleira\Prateleira.Model\bin\Debug\net6.0\Prateleira.Model.deps.json
+D:\Documentos\projetos\Prateleira\Prateleira.Model\bin\Debug\net6.0\Prateleira.Model.dll
+D:\Documentos\projetos\Prateleira\Prateleira.Model\bin\Debug\net6.0\Prateleira.Model.pdb
+D:\Documentos\projetos\Prateleira\Prateleira.Model\bin\Debug\net6.0\Prateleira.Domain.dll
+D:\Documentos\projetos\Prateleira\Prateleira.Model\bin\Debug\net6.0\Prateleira.Domain.pdb
+D:\Documentos\projetos\Prateleira\Prateleira.Model\obj\Debug\net6.0\Prateleira.Model.csproj.AssemblyReference.cache
+D:\Documentos\projetos\Prateleira\Prateleira.Model\obj\Debug\net6.0\Prateleira.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\projetos\Prateleira\Prateleira.Model\obj\Debug\net6.0\Prateleira.Model.AssemblyInfoInputs.cache
+D:\Documentos\projetos\Prateleira\Prateleira.Model\obj\Debug\net6.0\Prateleira.Model.AssemblyInfo.cs
+D:\Documentos\projetos\Prateleira\Prateleira.Model\obj\Debug\net6.0\Prateleira.Model.csproj.CoreCompileInputs.cache
+D:\Documentos\projetos\Prateleira\Prateleira.Model\obj\Debug\net6.0\Prateleira.Model.csproj.CopyComplete
+D:\Documentos\projetos\Prateleira\Prateleira.Model\obj\Debug\net6.0\Prateleira.Model.dll
+D:\Documentos\projetos\Prateleira\Prateleira.Model\obj\Debug\net6.0\refint\Prateleira.Model.dll
+D:\Documentos\projetos\Prateleira\Prateleira.Model\obj\Debug\net6.0\Prateleira.Model.pdb
+D:\Documentos\projetos\Prateleira\Prateleira.Model\obj\Debug\net6.0\ref\Prateleira.Model.dll
