@@ -41,5 +41,13 @@ namespace Prateleira.API.Controllers
             return Ok(sucesso);
         }
 
+        [HttpPut]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        public async Task<IActionResult> Update(UpdateProductCommand updateProductCommand, CancellationToken cancellationToken)
+        {
+            var sucesso = await _mediator.Send(updateProductCommand, cancellationToken).ConfigureAwait(false);
+            return sucesso ? Ok(sucesso) : BadRequest();
+        }
     }
 }
