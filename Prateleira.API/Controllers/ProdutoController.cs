@@ -49,5 +49,21 @@ namespace Prateleira.API.Controllers
             var sucesso = await _mediator.Send(updateProductCommand, cancellationToken).ConfigureAwait(false);
             return sucesso ? Ok(sucesso) : BadRequest();
         }
+
+        [HttpDelete]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        public async Task<IActionResult> Delete(DeleteProductCommand deleteProductCommand, CancellationToken cancellationToken)
+        {
+            if (!deleteProductCommand.Validation.IsValid)
+                return BadRequest(deleteProductCommand.Validation.Errors);
+
+            var sucesso = await _mediator.Send(deleteProductCommand, cancellationToken).ConfigureAwait(false);
+
+            if (!sucesso)
+                return Ok("ID não encontrado.");
+            else
+                return Ok(sucesso);
+        }
     }
 }

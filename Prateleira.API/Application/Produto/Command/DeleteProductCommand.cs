@@ -5,21 +5,17 @@ using System.Text.Json.Serialization;
 
 namespace Prateleira.API.Application.Produto.Command
 {
-    public class UpdateProductCommand : IRequest<bool>
+    public class DeleteProductCommand : IRequest<bool>
     {
         public int Id { get; set; }
-
-        public string Descricao { get; set; }
-
-        public int[] IdCategorias { get; set; }
         [JsonIgnore]
         public ValidationResult Validation { get; }
-        public UpdateProductCommand(int id, string descricao)
+        public DeleteProductCommand(int id)
         {
             Id = id;
-            Descricao = descricao;
-            var validator = new UpdateProductCommandValidator();
+            var validator = new DeleteProductCommandValidator();
             Validation = validator.Validate(this);
         }
+
     }
 }
