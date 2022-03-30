@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Application\Estoque\" />
+    <Folder Include="Application\Estoque\Query\Validation\" />
   </ItemGroup>
 
   <ItemGroup>

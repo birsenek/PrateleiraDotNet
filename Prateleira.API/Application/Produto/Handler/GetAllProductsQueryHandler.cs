@@ -17,7 +17,7 @@ namespace Prateleira.API.Application.Produto.Handler
         {
             return await _produtoRepository.GetAllAsync(
                 noTracking: true,
-                includeProperties: "Categorias",
+                includeProperties: "Categorias,Estoque",
                 cancellationToken: cancellationToken
                 ).ConfigureAwait(false);
         }
